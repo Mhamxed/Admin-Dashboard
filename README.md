@@ -1,1 +1,1 @@
-# Admin-Dashboard
+Objective: Create an Admin Dashboard using mainly CSS grid:
