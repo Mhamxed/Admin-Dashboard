@@ -1,1 +1,1 @@
-Objective: Create an Admin Dashboard using mainly CSS grid:
+Objective: Create an Admin Dashboard using mainly CSS grid.
